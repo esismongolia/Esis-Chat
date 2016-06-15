@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import xmpp_messenger_ios
+import XMPPFramework
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
